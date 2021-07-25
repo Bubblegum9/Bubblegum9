@@ -5,7 +5,7 @@
 
 
 
-- 🌱 Currently studying at Amrita School of Engineering,Chennai.?<img src="https://c.tenor.com/-n8u1MNTVskAAAAj/woman-student-people.gif" width="20px">
+- 🌱 Currently studying at Amrita School of Engineering,Chennai.<img src="https://c.tenor.com/-n8u1MNTVskAAAAj/woman-student-people.gif" width="20px">
 - ⚡ Fun fact: I Love sketching <img src="https://c.tenor.com/Oy_rYG15YzgAAAAj/raf-rafs.gif" width="7px">,and making illustrations<img src="https://c.tenor.com/ZyNlDKBzMp0AAAAj/tigo-guatemala.gif" width="24px"> and reading fiction. <img src="https://c.tenor.com/cEinmuFK7s0AAAAj/book-red-bull.gif" width="25px"><img>
 
 
