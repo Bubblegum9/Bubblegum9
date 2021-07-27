@@ -37,4 +37,13 @@
 ## Connect @
 
 [<img align="left" alt="linked in" width="60px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />](https://www.linkedin.com/in/sai-lasya-b874711a7/)
+<br>
 
+ ----
+                                                                                                      
+  <details open>
+         <summary> <b> GitHub stats 📊</b>  </summary>  
+          <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bubblegum9&show_icons=true&theme=midnight-purple&" alt="stats" /></p>               </details>
+          
+ -----
+         
