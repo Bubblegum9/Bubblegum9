@@ -43,7 +43,7 @@
                                                                                                       
   <details open>
          <summary> <b> GitHub stats 📊</b>  </summary>  
-          <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bubblegum9&show_icons=true&theme=midnight-purple&" alt="stats" /></p>               </details>
+          <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bubblegum9&show_icons=true&theme=material-palenight&" alt="stats" /></p>               </details>
           
  -----
          
